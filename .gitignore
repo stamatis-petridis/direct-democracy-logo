@@ -1,0 +1,14 @@
+# Directories
+/docs/
+/edits/
+/scripts/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
